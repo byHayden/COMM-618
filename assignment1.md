@@ -10,3 +10,5 @@ Finally, our class has limited — or non-existent — knowledge of the followi
 
 
 _by Hayden Godfrey_
+_COMM-618: Data-Driven Journalism
+_Saturday, January 21st, 2023__
