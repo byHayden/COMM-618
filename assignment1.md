@@ -6,7 +6,7 @@ In addition, several members of the class have had journalistic work published, 
 Finally, our class has limited — or non-existent — knowledge of the following data tools and scripting languages, as evidenced by a 0.0 median in familiarity:
 - R;
 - Python pandas; and
-- C++
+- C++.
 
 I look forward to analyzing more data and learning more about both our class and the journalistic landscape within which we all operate!
 
