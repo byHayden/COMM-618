@@ -1,4 +1,4 @@
-Jan 28 2023
+Jan. 28 2023
 
 Office of the Secretary of State of California
 
