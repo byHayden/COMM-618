@@ -1,3 +1,5 @@
+# In-Class Assignment IV.I: Sample FOI Letter
+
 Jan. 28 2023
 
 Office of the Secretary of State of California
