@@ -12,7 +12,7 @@ Several candidates — including the high-profile perennial candidate Omar Navar
 
 In addition, groups associated with the America First Political Action Conference — which was founded by white nationalist Nick Fuentes — spent a combined $93,000 on 11 separate disbursements, all but one of which were in the nation’s capital.
 
-Added Francine Proulx of nonpartisan Campaign Finance Institute: “QUOTE GOES HERE.”
+Added Francine Proulx of the nonpartisan Campaign Finance Institute: “QUOTE GOES HERE.”
 
 Notably, Sen. Bob Corker (R-Tenn.), who has long been one of Trump’s most vocal Republican critics in the upper chamber, spent nearly $1,100 on lodging at the aforementioned Trump hotel in D.C. [Corker did not seek reelection in 2018](https://www.nytimes.com/2017/09/26/us/politics/tennessees-bob-corker-announces-retirement-from-senate.html) and was succeeded by fellow Republican Marsha Blackburn. 
 
