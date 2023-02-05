@@ -14,4 +14,4 @@ _by Hayden Godfrey_
 
 _COMM-618: Data-Driven Journalism_
 
-_Saturday, January 28th, 2023_
+_Saturday, February 4th, 2023_
