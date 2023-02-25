@@ -1,4 +1,4 @@
-# Money buys access in Congress, but does it impact votes in the House?
+# Money buys access in Congress, but does it impact ideology in the House?
 
 ### Analysis of campaign finance data from the 2018 midterm election cycle reveals that Democrats received lower median campaign contributions than their Republican congressional counterparts. 
 
