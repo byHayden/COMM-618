@@ -1,3 +1,7 @@
+# Money buys access in Congress, but does it impact votes in the House?
+
+### Analysis of campaign finance data from the 2018 midterm election cycle reveals that Democrats received lower median campaign contributions than their Republican congressional counterparts. 
+
 When Sen. Bernie Sanders (I-Vt.) ran for president in 2016, he often boasted about how his campaign was funded by a large number of small donations rather than a small number of large donations. Hillary Clinton, against whom he was running for the Democratic nomination, was financed and controlled by “big money donors,” he said.
 
 Sanders, a left-leaning populist who ran on an anti-establishment platform, claimed that his low average campaign contribution was evidence of his man-of-the-people authenticity and, by extension, his commitment to progressive causes. [Sanders’ progressive](https://twitter.com/AOC/status/998962319551090688?s=20) [acolytes have used similar tactics](https://www.npr.org/2020/10/22/925892007/fundraging-fuels-democratic-money-advantage-over-gop-in-most-races) over the years, wedging small, individual donations into stump speeches and ads throughout their campaigns. 
