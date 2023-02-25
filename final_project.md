@@ -18,6 +18,8 @@ Similar influence was also apparently exerted on Rep. Tom Reed (R-N.Y.) and Rep.
 
 Representatives with leadership roles also saw larger median donations than their backbencher colleagues in 2018, with then-House Minority Leader Kevin McCarthy (R-Calif.) bringing in an average campaign contribution of $1,750 and Republican Study Committee chair Bill Flores (R-Texas) averaging $1,009 per donation.  
 
+[CLICK HERE FOR CHART/GRAPH VISUALIZING DATA](https://drive.google.com/file/d/14hJjq8tkVlgLyVOPVRqWhFMl-CEAqggO/view?usp=sharing)
+
 As fundraising operations become more sophisticated — and, in the wake of domination from so-called “dark money” groups, more shady — regulation of campaign donations and political actions committees (PACs) is becoming all the more crucial. The Federal Elections Commission — the independent government agency responsible for enforcing the nation’s campaign finance laws — is anticipating another expensive and tangled cycle in 2024, according to spokesperson Judtih Ingram. 
 
 “Presidential election-year cycles always bring higher fundraising and spending than other cycles,” Ingram said, “and we expect the 2023-24 cycle to be no exception.”
@@ -26,7 +28,7 @@ Fundraising in the 2022 cycle was over 70 percent higher than in the 2018 cycle,
 
 “The FEC will continue to enforce federal campaign finance law and Commission regulations,” Ingram added. 
 
-Still, campaign finance reform is a hot-button issue in Washington, D.C., with activist groups and nonprofits popping up to fight the issue and members of Congress periodically broaching the topic in legislative work. Advocates in state legislatures across the country are pushing for comprehensive campaign finance reform, but little has materialized at the federal level. 
+Still, campaign finance reform is a hot-button issue in Washington, D.C., with [activist groups](https://endcitizensunited.org/) [and nonprofits](https://campaignlegal.org/issues/campaign-finance) popping up to fight the issue and members of Congress periodically broaching the topic in legislative work. [Advocates in state legislatures](https://www.opensecrets.org/news/2023/01/campaign-finance-advocates-pressure-virginia-general-assembly/) across the country are pushing for comprehensive campaign finance reform, but little has materialized at the federal level. 
 
 Rocca said that repealing or reforming Citizens United v. FEC — a landmark Supreme Court decision that struck down a host of campaign finance restrictions and made way for the creation of “super PACs” — is the first step to creating a more open and transparent system of financing increasingly pricey campaigns. 
 
